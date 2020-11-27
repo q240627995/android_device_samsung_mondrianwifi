@@ -8,8 +8,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     dalvik.vm.dex2oat-swap=false
 
 # Low memory
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.low_ram=true
+#PRODUCT_PROPERTY_OVERRIDES += \
+#    ro.config.low_ram=true
 
 # Audio
 PRODUCT_PROPERTY_OVERRIDES += \
