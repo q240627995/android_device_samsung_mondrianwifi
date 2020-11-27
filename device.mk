@@ -280,6 +280,10 @@ PRODUCT_PACKAGES += \
     libcnefeatureconfig \
     librmnetctl \
     libxml2
+    
+PRODUCT_PACKAGES += \
+    ims-ext-common \
+    ims_ext_common.xml
 
 # Ramdisk
 PRODUCT_PACKAGES += \
